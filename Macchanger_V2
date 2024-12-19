@@ -1,4 +1,4 @@
-import subprocess
+ import subprocess
 import optparse
 import re
 # arguments to put in with code in command line -i ,-m example: python mac_cahnger.py -i eth0 -m 00:11:22:33:44:66
